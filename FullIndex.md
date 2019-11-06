@@ -1,10 +1,9 @@
 # Data Structure Index Page
-
-## Binary Tree
 Evernote Link : https://www.evernote.com/pub/shankpossible/datastructureandalgorithminjava
 Note for detailed Hierarchial Mindmap check Data Structure.mm in Repository
 
 One of the Opensource software for mindmap is FreeMind : http://freemind.sourceforge.net/wiki/index.php/Main_Page
+## 7 Binary Tree
 
 7.1 - Binary Tree Introduction 
 
